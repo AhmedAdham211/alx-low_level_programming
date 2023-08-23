@@ -20,5 +20,5 @@ while (str[start] != '\0')
 printf("%c", str[start]);
 start++;
 }
-_putchar("\n");
+_putchar('\n');
 }
